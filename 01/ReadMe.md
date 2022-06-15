@@ -90,7 +90,7 @@ go: cannot find main module, but found .git/config in /Volumes/CODE/go
 
 Tạo module
 ```
-$ go mod init lab01
+$ go mod init ten_module
 $ go mod tidy
 ```
 
